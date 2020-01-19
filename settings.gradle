@@ -1,3 +1,4 @@
 rootProject.name="learn-micronaut-java"
 
 include "01-hello-world"
+include "basic-auth"

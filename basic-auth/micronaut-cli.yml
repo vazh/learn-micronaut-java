@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: io.github.vazh.learn.micronaut
+---
+testFramework: spock
+sourceLanguage: java
